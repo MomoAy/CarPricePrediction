@@ -4,13 +4,13 @@
 Ce projet utilise des techniques de **Machine Learning** pour prédire le prix d’un véhicule en fonction de ses caractéristiques (année de fabrication, kilométrage, type de carburant, etc.).  
 Nous comparons plusieurs modèles pour identifier celui offrant la meilleure précision.  
 
-## 🎯 Objectifs  
+## Objectifs  
 - Explorer et analyser les données du marché automobile.  
 - Nettoyer et préparer les données pour la modélisation.  
 - Entraîner plusieurs modèles de Machine Learning et comparer leurs performances.  
 - Évaluer la précision des modèles avec des métriques adaptées.  
 
-## 📂 Dataset  
+## Dataset  
 Le dataset utilisé provient de [Kaggle](https://www.kaggle.com/) et contient les informations suivantes :  
 ✔ **Année de fabrication**  
 ✔ **Prix**  
